@@ -1,0 +1,12 @@
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_GUIFarmerGame\Lantz_GUIFarmerGame\bin\Debug\Lantz_GUIFarmerGame.exe.config
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_GUIFarmerGame\Lantz_GUIFarmerGame\bin\Debug\Lantz_GUIFarmerGame.exe
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_GUIFarmerGame\Lantz_GUIFarmerGame\bin\Debug\Lantz_GUIFarmerGame.pdb
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_GUIFarmerGame\Lantz_GUIFarmerGame\obj\Debug\Lantz_GUIFarmerGame.csprojAssemblyReference.cache
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_GUIFarmerGame\Lantz_GUIFarmerGame\obj\Debug\Lantz_GUIFarmerGame.FormGameLogic.resources
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_GUIFarmerGame\Lantz_GUIFarmerGame\obj\Debug\Lantz_GUIFarmerGame.Properties.Resources.resources
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_GUIFarmerGame\Lantz_GUIFarmerGame\obj\Debug\Lantz_GUIFarmerGame.csproj.GenerateResource.cache
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_GUIFarmerGame\Lantz_GUIFarmerGame\obj\Debug\Lantz_GUIFarmerGame.csproj.CoreCompileInputs.cache
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_GUIFarmerGame\Lantz_GUIFarmerGame\obj\Debug\Lantz_GUIFarmerGame.exe
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_GUIFarmerGame\Lantz_GUIFarmerGame\obj\Debug\Lantz_GUIFarmerGame.pdb
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_GUIFarmerGame\Lantz_GUIFarmerGame\obj\Debug\Lantz_GUIFarmerGame.FormMyInfo.resources
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_GUIFarmerGame\Lantz_GUIFarmerGame\obj\Debug\Lantz_GUIFarmerGame.FormPlayAgain.resources
